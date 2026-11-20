@@ -1,0 +1,34 @@
+{
+ "region": "강원 춘천시 남산면",
+ "nameEn": "Songgok University",
+ "added": "2026-11-01T02:27",
+ "rank": 278,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "CCNUE",
+   "campus": "춘천교육대학교",
+   "km": 11.4
+  },
+  {
+   "code": "KANGWON",
+   "campus": "강원대학교 춘천캠퍼스",
+   "km": 11.7
+  },
+  {
+   "code": "HALLYM",
+   "campus": "한림대학교",
+   "km": 13.0
+  },
+  {
+   "code": "HPU",
+   "campus": "한림성심대학교",
+   "km": 15.1
+  },
+  {
+   "code": "KYUNGBOK",
+   "campus": "경복대학교 남양주캠퍼스",
+   "km": 39.2
+  }
+ ]
+}
